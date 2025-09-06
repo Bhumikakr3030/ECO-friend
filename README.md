@@ -45,3 +45,16 @@ View past orders with details
 Works seamlessly on desktop and mobile
 
 Clean, modern UI with an eco-friendly color schemeence with all the requested features, using only client-side technologies for demonstration purposes.
+🚀 How to Use
+
+Register/Login → Create an account or log in with email & password.
+
+Browse Products → Explore available eco-friendly products.
+
+Add Products → Logged-in users can list new products.
+
+Add to Cart → Click “Add to Cart” to start shopping.
+
+Checkout → Complete purchases, which move to your “Previous Purchases”.
+
+Dashboard → Manage your listings, profile, and view order history.
