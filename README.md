@@ -57,5 +57,18 @@ Getting started with the EcoFinds prototype is simple:
    ```bash
    git clone https://github.com/Bhumikakr3030/ECO-friend.git
 
+##  Live Demo
+[Visit the live prototype](https://Bhumikakr3030.github.io/Eco-friend/)
+
+##  Usage Instructions
+1. Visit the live demo above.
+2. Explore as a user—browse, register, manage listings, and simulate purchases.
+
+Alternatively, clone the project:
+
+```bash
+git clone https://github.com/Bhumikakr3030/ECO-friend.git
+cd ECOFIND
+
 
 Dashboard → Manage your listings, profile, and view order history.
